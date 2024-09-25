@@ -1,9 +1,7 @@
 ## Boas vindas ao meu perfil👋
-**biafonseca358/biafonseca358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Organização e compartilhamento dos meus projetos desenvolvidos.
+Meu nome é Ana Beatriz
 
-**Contato**
-
-@biawzd 
-
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
